@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Currency Converter</string>
+    <string name="value">Valor</string>
+    <string name="from">De</string>
+    <string name="to">Para</string>
+    <string name="converte">converter valor</string>
+    <string name="error_massege">Preencha o campo valor</string>
+    <string name="same_values_message">\"De\" e \"Para\" tem o mesmo valor. Altere um deles.</string>
+</resources>

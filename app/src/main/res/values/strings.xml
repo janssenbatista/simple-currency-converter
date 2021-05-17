@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple Currency Converter</string>
+    <string name="value">Value</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="converte">convert value</string>
+    <string name="error_massege">Fill the value fild</string>
+    <string name="same_values_message">\"From\" and \"To\" have the same value. Change one of them.</string>
+</resources>
